@@ -161,6 +161,7 @@ footer fieldset {
   width: 635px;
   padding:15px;
   border: 1px solid white;
+  margin-top: 15px;
 }
 
 footer ul {
